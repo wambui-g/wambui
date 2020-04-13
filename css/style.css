@@ -1,0 +1,16 @@
+body{
+  background-image: url(back.png);
+  text-align: center;
+}
+p,h1{
+  font-weight: bold;
+}
+hr{
+  color: red;
+  border-style: dotted none none none;
+  border-width: 20px;
+  width: 30%
+}
+li{
+  color: #66bfbf
+}
